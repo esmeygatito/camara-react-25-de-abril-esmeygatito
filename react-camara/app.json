@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-camara",
+    "slug": "react-camara",
+    "version": "1.0.0",
+    "android": {
+      "permissions": ["android.permission.CAMERA"]
+    }
+  }
+}
